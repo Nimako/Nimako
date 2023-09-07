@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 <h3>Hi there 👋, my name is Isaac Gyasi Nimako </h3>
 
 <ul>
- <li>🔭 I’m currently working on </li>
+ <!--<li>🔭 I’m currently working on </li> -->
  <li>🌱 I’m currently learning Smart Contracts with solidity and Go</li>
  <li>👯 My Area of Interest's are Rest API development, Web Application development</li>
  <li>💬 Ask me about anything related to Software development</li>
