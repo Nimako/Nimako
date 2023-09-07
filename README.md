@@ -12,7 +12,7 @@ Here are some ideas to get you started:
  <li>👯 My Area of Interest's are Rest API development, Web Application development</li>
  <li>💬 Ask me about anything related to Software development</li>
  <li>👯 I’m looking to collaborate on any innovative project</li>
- <li>📫 How to reach me: gyasinimako.gh@gmail.com</li>
+ <li>📫 How to reach me: <a href="mailto:gyasinimako.gh@gmail.com">gyasinimako.gh@gmail.com</a></li>
 </ul>
 
 <table width="320px">
