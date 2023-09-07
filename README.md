@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 <ul>
  <li>🔭 I’m currently working on </li>
  <li>🌱 I’m currently learning Smart Contracts with solidity and Go</li>
- <li>👯 My Area of Interest's are Rest API development, Web development Application development</li>
+ <li>👯 My Area of Interest's are Rest API development, Web Application development</li>
  <li>💬 Ask me about anything related to Software development</li>
  <li>👯 I’m looking to collaborate on any innovative project</li>
  <li>📫 How to reach me: gyasinimako.gh@gmail.com</li>
@@ -20,25 +20,25 @@ Here are some ideas to get you started:
           <tr valign="top">
             <td width="80px" align="center">
             <span><strong>C#</strong></span><br>
-            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/43f9c085821a7258745ceed4ecbcc68c3ffd996049c9d0a2a77c74dd1f5dc80b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f666c75747465722f666c75747465722d6f726967696e616c2e737667"><img height="32px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" style="max-width: 100%;"></a>
+            <a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.worldvectorlogo.com/logos/c--4.svg"><img height="32px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" style="max-width: 100%;"></a>
             </td>
             <td width="80px" align="center">
-            <span><strong>React</strong></span><br>
-            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667"><img height="32px" src="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%;"></a>
+            <span><strong>Laravel</strong></span><br>
+            <a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"><img height="32px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" data-canonical-src="" style="max-width: 100%;"></a>
             </td>
             <td width="80px" align="center">
             <span><strong>git</strong></span><br>
             <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ddd323c6c51fbc9a81fcbb60fe25a588ab59fdd6567b7e827f4d2d5c4e09f6a1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d706c61696e2e737667"><img height="32px" src="https://camo.githubusercontent.com/ddd323c6c51fbc9a81fcbb60fe25a588ab59fdd6567b7e827f4d2d5c4e09f6a1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="max-width: 100%;"></a>
             </td>
              <td width="80px" align="center">
-            <span><strong>Firebase</strong></span><br>
-            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5e264dc8fcb694c4183413c371048cfb251b0e8ee84b64a0e8ee76750718ca50/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f66697265626173652f66697265626173652d706c61696e2e737667"><img height="32" src="https://camo.githubusercontent.com/5e264dc8fcb694c4183413c371048cfb251b0e8ee84b64a0e8ee76750718ca50/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f66697265626173652f66697265626173652d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="max-width: 100%;"></a>
+            <span><strong>Java</strong></span><br>
+            <a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.worldvectorlogo.com/logos/java-4.svg"><img height="32" src="https://cdn.worldvectorlogo.com/logos/java-4.svg" data-canonical-src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg](https://cdn.worldvectorlogo.com/logos/java-4.svg)" style="max-width: 100%;"></a>
             </td>
         </tr>
         <tr valign="top">
              <td width="80px" align="center">
-            <span><strong>Dart</strong></span><br>
-            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/07d482580718a86d482cfd8278bf72799a2235452a5a5afb0998d2cadf37b345/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646172742f646172742d6f726967696e616c2e737667"><img height="32px" src="https://camo.githubusercontent.com/07d482580718a86d482cfd8278bf72799a2235452a5a5afb0998d2cadf37b345/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646172742f646172742d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="max-width: 100%;"></a>
+            <span><strong>PHP</strong></span><br>
+            <a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.worldvectorlogo.com/logos/php-1.svg"><img height="32px" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" data-canonical-src="https://cdn.worldvectorlogo.com/logos/php-1.svg" style="max-width: 100%;"></a>
             </td>
             <td width="80px" align="center">
             <span><strong>JavaScript</strong></span><br>
