@@ -22,6 +22,8 @@
  <li>📫 How to reach me: <a href="mailto:gyasinimako.gh@gmail.com">gyasinimako.gh@gmail.com</a></li>
 </ul>
 
+_"Code is like humor. When you have to explain it, it’s bad."_ 😄
+
 # 🛠 Tech Stack
 
 <div align="center"> 
