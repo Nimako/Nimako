@@ -18,15 +18,12 @@
  <li>📫 How to reach me: <a href="mailto:gyasinimako.gh@gmail.com">gyasinimako.gh@gmail.com</a></li>
 </ul>
 
-
-[![committers.top badge](https://user-badge.committers.top/south_africa/mokhelek.svg)](https://user-badge.committers.top/south_africa/mokhelek)
-
 # 🛠 Tech Stack
 
 <div align="center"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50" height="50"/>
+ <img height="50" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" style="max-width: 100%;">
   &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="50" height="50"/>
   &nbsp;&nbsp;&nbsp;
 <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" title="Django" alt="Django"  height="46"/>
   &nbsp;&nbsp;&nbsp;
