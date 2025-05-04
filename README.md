@@ -15,9 +15,8 @@
 - 💻 Tech Stack: .NET Core | Laravel | React | Python | Postgres | MySQL
 - 🌱 Learning: Cloud infrastructure & DevOps practices
 <ul>
- <!--<li>🔭 I’m currently working on </li> -->
- <li>🌱 I’m currently learning Smart Contracts with solidity and Go</li>
-<!--  <li>👯 My Area of Interest's are Rest API development, Web Application development</li>-->
+<!--  <li>🌱 I’m currently learning Smart Contracts with solidity and Go</li>
+ <li>👯 My Area of Interest's are Rest API development, Web Application development</li>-->
  <li>💬 Ask me about anything related to Software development</li> 
  <li>👯 I’m looking to collaborate on any innovative project</li>
  <li>📫 How to reach me: <a href="mailto:gyasinimako.gh@gmail.com">gyasinimako.gh@gmail.com</a></li>
