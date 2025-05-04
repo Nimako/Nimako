@@ -8,7 +8,7 @@
 
 # 🚀 about
 
-<h3>Hi there 👋, my name is Isaac Gyasi Nimako </h3>
+<h3>Hi there 👋, my name is Isaac Gyasi  </h3>
 
 
 - 🔭 Currently working on: AI-integrated business tools & SaaS projects
