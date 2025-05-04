@@ -33,8 +33,8 @@ _"Code is like humor. When you have to explain it, it’s bad."_ 😄
   &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="50" height="50"/>
   &nbsp;&nbsp;&nbsp;
-<img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" title="Django" alt="Django"  height="46"/>
-  &nbsp;&nbsp;&nbsp;
+<!-- <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" title="Django" alt="Django"  height="46"/>
+  &nbsp;&nbsp;&nbsp; -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"  width="43" height="43"/>
   &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg"  width="50" height="50"/>
