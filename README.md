@@ -1,7 +1,5 @@
 ![heading](header.png)
 
-
-
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -10,11 +8,16 @@
 
 # 🚀 about
 
-- Skilled Collaborator 🤝
-- Commited High Achiever 🏆
-- Effective Communicator 🎙
-- Rapid and Adaptive ⚡️
-- Problem Solver 💡
+<h3>Hi there 👋, my name is Isaac Gyasi Nimako </h3>
+<ul>
+ <!--<li>🔭 I’m currently working on </li> -->
+ <li>🌱 I’m currently learning Smart Contracts with solidity and Go</li>
+ <li>👯 My Area of Interest's are Rest API development, Web Application development</li>
+ <li>💬 Ask me about anything related to Software development</li>
+ <li>👯 I’m looking to collaborate on any innovative project</li>
+ <li>📫 How to reach me: <a href="mailto:gyasinimako.gh@gmail.com">gyasinimako.gh@gmail.com</a></li>
+</ul>
+
 
 [![committers.top badge](https://user-badge.committers.top/south_africa/mokhelek.svg)](https://user-badge.committers.top/south_africa/mokhelek)
 
@@ -85,16 +88,6 @@
 
 Here are some ideas to get you started:
 -->
-<h3>Hi there 👋, my name is Isaac Gyasi Nimako </h3>
-
-<ul>
- <!--<li>🔭 I’m currently working on </li> -->
- <li>🌱 I’m currently learning Smart Contracts with solidity and Go</li>
- <li>👯 My Area of Interest's are Rest API development, Web Application development</li>
- <li>💬 Ask me about anything related to Software development</li>
- <li>👯 I’m looking to collaborate on any innovative project</li>
- <li>📫 How to reach me: <a href="mailto:gyasinimako.gh@gmail.com">gyasinimako.gh@gmail.com</a></li>
-</ul>
 
 <table width="320px">
     <tbody>
